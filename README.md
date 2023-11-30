@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hodie+Zohar!;" />
 </h1>
 
-<h3 align="center">A dedicated computer science student👩🏻‍💻  IL</h3>
+<h3 align="center">A computer science student passionate about exploring the realms of technology and coding.🎓👩🏻‍💻  IL</h3>
 
 <br/>
 
