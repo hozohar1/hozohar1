@@ -28,8 +28,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,visualstudio,git,ai,assembly,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,#c,c++,java,python,intellij,wireshark,linux,opp,.net" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,visualstudio,git,ai,assembly,linux,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,#c,c++,java,python,intellij,wireshark,opp,.net" /><br>
 </div>
 
 <br/>
